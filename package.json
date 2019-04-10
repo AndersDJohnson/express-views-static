@@ -1,6 +1,6 @@
 {
   "name": "express-views-static",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Static file view engine for Express.",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git@github.com:AndersDJohnson/express-views-static.git"
   },
-  "author": "Anders D. Johnson",
+  "author": "Anders D. Johnson (https://andersdjohnson.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/AndersDJohnson/express-views-static/issues"
